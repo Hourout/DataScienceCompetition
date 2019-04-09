@@ -1,5 +1,6 @@
 ![](https://github.com/Hourout/DataScienceCompetition/blob/master/TianChi-%E5%85%A8%E7%90%83%E5%9F%8E%E5%B8%82%E8%AE%A1%E7%AE%97AI%E6%8C%91%E6%88%98%E8%B5%9B/image/city_ai.png)
 
+[全球城市计算AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231708/introduction)
 ## 大赛概况
 
 2019年，杭州市公安局联合阿里云智能启动首届全球城市计算AI挑战赛，本次挑战赛的题目选定为“地铁乘客流量预测”。地铁目前是城市交通出行的主要工具之一，地铁站突发人流量的增加极容易引起拥塞，引发大客流对冲，造成安全隐患。因此，地铁运营部门和公安机关亟需通过流量预测技术提前部署相应的安保策略，保障市民安全出行。
