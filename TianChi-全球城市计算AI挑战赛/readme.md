@@ -18,13 +18,15 @@
 
 ## 竞赛数据
 
-用户刷卡数据表（record_2019-01-xx.csv）
-enter image description here
-注：
-1.record_2019-01-xx.csv文件中，除第一行外，每行包含一条用户的刷卡记录。
-2.对于userID，在payType为3时无法唯一标识用户身份。即此userID可能为多人使用，但在一次进出站期间可以视为同一用户。对于其他取值的payType，对应的userID可以唯一标识一个用户。
+### 用户刷卡数据表（record_2019-01-xx.csv）
 
-路网地图（Metro_roadMap.csv）
-大赛提供了各地铁站之间的连接关系表，相应的领接矩阵存储在roadMap.csv中，其中包含一个81x81的二维矩阵。文件中首行和首列表示地铁站ID（stationID），columns为0-80，rows为0-80。
-roadMap[i][j] = 1 表示stationID为i的地铁站和stationID为j的地铁站直接相连；
-roadMap[i][j] = 0 表示stationID为i的地铁站和stationID为j的地铁站不相连。
+![](https://github.com/Hourout/DataScienceCompetition/blob/master/TianChi-%E5%85%A8%E7%90%83%E5%9F%8E%E5%B8%82%E8%AE%A1%E7%AE%97AI%E6%8C%91%E6%88%98%E8%B5%9B/image/city_ai2.png)
+
+注：
+- record_2019-01-xx.csv文件中，除第一行外，每行包含一条用户的刷卡记录。
+- 对于userID，在payType为3时无法唯一标识用户身份。即此userID可能为多人使用，但在一次进出站期间可以视为同一用户。对于其他取值的payType，对应的userID可以唯一标识一个用户。
+
+### 路网地图（Metro_roadMap.csv）
+- 大赛提供了各地铁站之间的连接关系表，相应的领接矩阵存储在roadMap.csv中，其中包含一个81x81的二维矩阵。文件中首行和首列表示地铁站ID（stationID），columns为0-80，rows为0-80。
+- roadMap[i][j] = 1 表示stationID为i的地铁站和stationID为j的地铁站直接相连；
+- roadMap[i][j] = 0 表示stationID为i的地铁站和stationID为j的地铁站不相连。
