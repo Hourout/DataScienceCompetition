@@ -1,4 +1,4 @@
-![](https://github.com/Hourout/DataScienceCompetition/blob/master/CIKM2018/image/cikm2018.png)
+![](https://github.com/Hourout/DataScienceCompetition/blob/master/TianChi-CIKM2018/image/cikm2018.png)
 
 [CIKM2018](https://tianchi.aliyun.com/competition/entrance/231661/introduction)
 
