@@ -1,6 +1,7 @@
 ![](https://github.com/Hourout/DataScienceCompetition/blob/master/CIKM2018/image/cikm2018.png)
 
 [CIKM2018](https://tianchi.aliyun.com/competition/entrance/231661/introduction)
+
 ## CIKM AnalytiCup 2018 – 阿里小蜜机器人跨语言短文本匹配算法竞赛
  
 ## 背景介绍
